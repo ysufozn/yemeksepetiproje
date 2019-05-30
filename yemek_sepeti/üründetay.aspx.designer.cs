@@ -40,13 +40,21 @@ namespace yemek_sepeti {
         protected global::System.Web.UI.WebControls.Label Label1;
         
         /// <summary>
+<<<<<<< HEAD
         /// Label2 control.
+=======
+        /// Image1 control.
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
+<<<<<<< HEAD
         protected global::System.Web.UI.WebControls.Label Label2;
+=======
+        protected global::System.Web.UI.WebControls.Image Image1;
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
         
         /// <summary>
         /// detaylabel control.
@@ -83,6 +91,7 @@ namespace yemek_sepeti {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ImageButton arti;
+<<<<<<< HEAD
         
         /// <summary>
         /// ImageButton2 control.
@@ -92,5 +101,7 @@ namespace yemek_sepeti {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ImageButton ImageButton2;
+=======
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     }
 }

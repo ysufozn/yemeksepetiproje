@@ -13,6 +13,7 @@ namespace yemek_sepeti
         {
 
         }
+<<<<<<< HEAD
 
         protected void ImageButton2_Click(object sender, ImageClickEventArgs e)
         {
@@ -28,5 +29,7 @@ namespace yemek_sepeti
         {
             Response.Redirect("Anasayfa2.aspx");  
         }
+=======
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     }
 }

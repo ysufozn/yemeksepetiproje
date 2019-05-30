@@ -11,6 +11,7 @@ namespace yemek_sepeti
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             Label2.Text = Request.QueryString["urun"];
             detaylabel.Text = Request.QueryString["Fiyat"];
         }
@@ -43,5 +44,9 @@ namespace yemek_sepeti
         {
             Response.Redirect("giriş.aspx");
         }
+=======
+
+        }
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     }
 }

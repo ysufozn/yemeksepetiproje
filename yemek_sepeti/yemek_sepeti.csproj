@@ -77,6 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anasayfa.aspx" />
+<<<<<<< HEAD
     <Content Include="Anasayfa2.aspx" />
     <Content Include="giriş.aspx" />
     <Content Include="images\10924.png" />
@@ -139,6 +140,9 @@
     <Content Include="images\üyesayfa.png" />
     <Content Include="images\üyeyazi.png" />
     <Content Include="index.aspx" />
+=======
+    <Content Include="giriş.aspx" />
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     <Content Include="lokanta1.aspx" />
     <Content Include="lokanta2.aspx" />
     <Content Include="style.css" />
@@ -147,7 +151,11 @@
     <Content Include="ödeme.aspx" />
     <Content Include="ödemebilgiler.aspx" />
     <Content Include="üründetay.aspx" />
+<<<<<<< HEAD
     <Content Include="uyelik.aspx" />
+=======
+    <Content Include="üyelik.aspx" />
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Anasayfa.aspx.cs">
@@ -157,6 +165,7 @@
     <Compile Include="Anasayfa.aspx.designer.cs">
       <DependentUpon>Anasayfa.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Anasayfa2.aspx.cs">
       <DependentUpon>Anasayfa2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -164,6 +173,8 @@
     <Compile Include="Anasayfa2.aspx.designer.cs">
       <DependentUpon>Anasayfa2.aspx</DependentUpon>
     </Compile>
+=======
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     <Compile Include="giriş.aspx.cs">
       <DependentUpon>giriş.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -171,6 +182,7 @@
     <Compile Include="giriş.aspx.designer.cs">
       <DependentUpon>giriş.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -178,6 +190,8 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+=======
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
     <Compile Include="lokanta1.aspx.cs">
       <DependentUpon>lokanta1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -221,8 +235,13 @@
     <Compile Include="üründetay.aspx.designer.cs">
       <DependentUpon>üründetay.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="uyelik.aspx.cs">
       <DependentUpon>uyelik.aspx</DependentUpon>
+=======
+    <Compile Include="üyelik.aspx.cs">
+      <DependentUpon>üyelik.aspx</DependentUpon>
+>>>>>>> 9f20c5726003b954f9b3215645ec05d04cb033d0
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="uyelik.aspx.designer.cs">
