@@ -76,12 +76,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anasayfa.aspx" />
+    <Content Include="giriş.aspx" />
     <Content Include="lokanta1.aspx" />
     <Content Include="lokanta2.aspx" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
     <Content Include="ödeme.aspx" />
     <Content Include="ödemebilgiler.aspx" />
+    <Content Include="üründetay.aspx" />
     <Content Include="üyelik.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -91,6 +93,13 @@
     </Compile>
     <Compile Include="Anasayfa.aspx.designer.cs">
       <DependentUpon>Anasayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="giriş.aspx.cs">
+      <DependentUpon>giriş.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="giriş.aspx.designer.cs">
+      <DependentUpon>giriş.aspx</DependentUpon>
     </Compile>
     <Compile Include="lokanta1.aspx.cs">
       <DependentUpon>lokanta1.aspx</DependentUpon>
@@ -120,6 +129,13 @@
     </Compile>
     <Compile Include="ödemebilgiler.aspx.designer.cs">
       <DependentUpon>ödemebilgiler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="üründetay.aspx.cs">
+      <DependentUpon>üründetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="üründetay.aspx.designer.cs">
+      <DependentUpon>üründetay.aspx</DependentUpon>
     </Compile>
     <Compile Include="üyelik.aspx.cs">
       <DependentUpon>üyelik.aspx</DependentUpon>
