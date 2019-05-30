@@ -8,3 +8,13 @@ C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.dll
 C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.pdb
 C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.csprojAssemblyReference.cache
 C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.csproj.CopyComplete
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.dll.config
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.dll
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.pdb
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.csprojAssemblyReference.cache
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.csproj.CopyComplete
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.dll
+C:\Users\Atakan\Desktop\yemek_sepeti\yemek_sepeti\obj\Debug\yemek_sepeti.pdb

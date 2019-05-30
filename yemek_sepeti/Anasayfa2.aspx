@@ -1,17 +1,15 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Anasayfa.aspx.cs" Inherits="yemek_sepeti.Anasayfa" EnableEventValidation="false" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Anasayfa2.aspx.cs" Inherits="yemek_sepeti.Anasayfa2" EnableEventValidation="false" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head >
-    <title>Online Yemek Siparişi</title>
-    <link href="style.css" rel="stylesheet" />
+<head runat="server">
 
-     
-     
-    
+    <title></title> 
+    <link href="style.css" rel="stylesheet" />
 </head>
-<body runat="server">
+
+    <body runat="server">
     <form runat="server">
            <header class="header">
             <div id="h" style="width:100%; height:100%;">
@@ -54,28 +52,11 @@
         <div id="üyegiris" style="margin-left:10%; margin-top:20%; height:auto;" >
             <asp:Label ID="Label2" runat="server" Text="Label">Kullancı Adı/E-posta</asp:Label>
             <br />
-            <asp:TextBox ID="TextBox1" Text="Kullanıcı Adınız Giriniz" runat="server" Width="200px"></asp:TextBox><br />
-             <asp:Label ID="Label3" runat="server" Text="Label">Şifre</asp:Label><br />
-           
-            <asp:TextBox ID="TextBox2" Text="Şifrenizi giriniz" runat="server"  Width="200px"></asp:TextBox>
-            <br />
-
-            <a href="Anasayfa.aspx">Şifremi Unuttum</a> 
-            <br />
-          
-            <asp:ImageButton ID="ImageButton1" src="/images/uyegiris.png" runat="server" Width="219px" OnClick="ImageButton1_Click" />
-            <div style="margin-left:60%;">
-            </div>
-        <br />
-            <asp:ImageButton ID="ImageButton2" src="/images/face.png" runat="server" />
-            <br />
-            <asp:ImageButton ID="ImageButton3" src="/images/yeniuye.png" runat="server" Width="222px" OnClick="ImageButton3_Click" />
-            <br />
             <br />
             <br />
             <asp:Image ID="Image1" src="images/sepet.png" runat="server" /><br />
 
-            <asp:Image ID="Image2" src="images/sepet1.png" runat="server" /><br />
+            <asp:imagebutton ID="Image2" src="images/sepet1.png" runat="server" OnClick="Image2_Click" /><br />
 
             <asp:Label ID="Label1" runat="server" Text="Sepetiniz Boş"></asp:Label>
 

@@ -7,11 +7,16 @@ using System.Web.UI.WebControls;
 
 namespace yemek_sepeti
 {
-    public partial class üyelik : System.Web.UI.Page
+    public partial class Anasayfa2 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void Image2_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("giriş.aspx");
         }
     }
 }

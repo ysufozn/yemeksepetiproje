@@ -9,10 +9,14 @@ namespace yemek_sepeti
 {
     public partial class Anasayfa : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected void ImageButton3_Click(object sender, ImageClickEventArgs e)
         {
-
+            Response.Redirect("uyelik.aspx");
         }
 
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("Anasayfa2.aspx");
+        }
     }
 }

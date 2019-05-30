@@ -12,8 +12,8 @@
             <asp:Image ID="Image1" runat="server" />
             <a><asp:ImageButton ID="ImageButton3" src="/images/alibaba.png" Width="100%"  runat="server" /><br /></a>  
               
-          <a style="margin-top:10px;"><asp:ImageButton ID="ImageButton1" src="/images/alibabau1.png" Width="100%"  runat="server" /><br /></a>  
-            <a style="margin-top:5px;"><asp:ImageButton ID="ImageButton2" src="/images/alibabau2.png" Width="100%"  runat="server" /><br /></a>  
+          <a style="margin-top:10px;"><asp:ImageButton ID="ImageButton1" src="/images/alibabau1.png" Width="100%"  runat="server" OnClick="ImageButton1_Click" /><br /></a>  
+            <a style="margin-top:5px;"><asp:ImageButton ID="ImageButton2" src="/images/alibabau2.png" Width="100%"  runat="server" OnClick="ImageButton2_Click" /><br /></a>  
         
         </div>
     </form>

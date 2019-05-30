@@ -13,5 +13,15 @@ namespace yemek_sepeti
         {
 
         }
+
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("üründetay.aspx?urun=" + "Seçilmiş Menü (McChicken ™ & BigMac ™)" + "&Fiyat=" + "26,99");
+        }
+
+        protected void ImageButton2_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("üründetay.aspx?urun=" + "BigMac Menü" + "&Fiyat=" + "39,99");
+        }
     }
 }

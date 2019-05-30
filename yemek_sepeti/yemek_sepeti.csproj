@@ -76,13 +76,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anasayfa.aspx" />
+    <Content Include="Anasayfa2.aspx" />
+    <Content Include="giriş.aspx" />
     <Content Include="lokanta1.aspx" />
     <Content Include="lokanta2.aspx" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
+    <Content Include="WebForm1.aspx" />
     <Content Include="ödeme.aspx" />
     <Content Include="ödemebilgiler.aspx" />
-    <Content Include="üyelik.aspx" />
+    <Content Include="üründetay.aspx" />
+    <Content Include="uyelik.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Anasayfa.aspx.cs">
@@ -91,6 +95,20 @@
     </Compile>
     <Compile Include="Anasayfa.aspx.designer.cs">
       <DependentUpon>Anasayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfa2.aspx.cs">
+      <DependentUpon>Anasayfa2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Anasayfa2.aspx.designer.cs">
+      <DependentUpon>Anasayfa2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="giriş.aspx.cs">
+      <DependentUpon>giriş.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="giriş.aspx.designer.cs">
+      <DependentUpon>giriş.aspx</DependentUpon>
     </Compile>
     <Compile Include="lokanta1.aspx.cs">
       <DependentUpon>lokanta1.aspx</DependentUpon>
@@ -107,6 +125,13 @@
       <DependentUpon>lokanta2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ödeme.aspx.cs">
       <DependentUpon>ödeme.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -121,12 +146,19 @@
     <Compile Include="ödemebilgiler.aspx.designer.cs">
       <DependentUpon>ödemebilgiler.aspx</DependentUpon>
     </Compile>
-    <Compile Include="üyelik.aspx.cs">
-      <DependentUpon>üyelik.aspx</DependentUpon>
+    <Compile Include="üründetay.aspx.cs">
+      <DependentUpon>üründetay.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="üyelik.aspx.designer.cs">
-      <DependentUpon>üyelik.aspx</DependentUpon>
+    <Compile Include="üründetay.aspx.designer.cs">
+      <DependentUpon>üründetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="uyelik.aspx.cs">
+      <DependentUpon>uyelik.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="uyelik.aspx.designer.cs">
+      <DependentUpon>uyelik.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <PropertyGroup>

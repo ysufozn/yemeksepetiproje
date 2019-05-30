@@ -13,5 +13,16 @@ namespace yemek_sepeti
         {
 
         }
+
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("üründetay.aspx?urun=" + "KOMBO BEEF (120 gr)" + "&Fiyat=" + "22,50");
+
+        }
+
+        protected void ImageButton2_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("üründetay.aspx?urun=" + "KOMBO CHICKEN (120 gr)" +"&Fiyat=" + "17,50");
+        }
     }
 }

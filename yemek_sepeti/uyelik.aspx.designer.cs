@@ -10,7 +10,7 @@
 namespace yemek_sepeti {
     
     
-    public partial class üyelik {
+    public partial class uyelik {
         
         /// <summary>
         /// form1 control.

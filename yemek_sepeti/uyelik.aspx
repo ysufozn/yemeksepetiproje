@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="üyelik.aspx.cs" Inherits="yemek_sepeti.üyelik" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="uyelik.aspx.cs" Inherits="yemek_sepeti.uyelik" %>
 
 <!DOCTYPE html>
 
@@ -40,19 +40,19 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <asp:TextBox ID="TextBox5" runat="server" Height="20px" Width="280px"></asp:TextBox>
          <br /><br />
-           <a style="margin-left:18%;"> <img src="/images/üyeyazi.png"  " /></a>
+           <a style="margin-left:18%;"> <img src="/images/uyeyazi.png"  " /></a>
           <br />
           <br />
-        <a style="margin-left:17%;">   <asp:Button ID="Button1"  Width="280px" Height="50px" BackColor="LightGreen" ForeColor="White" runat="server" Text="Üye Ol"></asp:Button></a>
+        <a style="margin-left:17%;">   <asp:Button ID="Button1"  Width="280px" Height="50px" BackColor="LightGreen" ForeColor="White" runat="server" Text="Üye Ol" OnClick="Button1_Click"></asp:Button></a>
           </Center>
 
          
       </div>
-          <div style="width:auto; margin-left:60%; margin-top:-600px; position:absolute ">  <img src="/images/üyesayfa.png"  " /> </div>
+          <div style="width:auto; margin-left:60%; margin-top:-400px; position:absolute ">  <img src="/images/üyesayfa.png"  /> </div>
             <br />
             <br />
 
-           <img src="/images/dene.png "/>
+         <div style="margin-top:150px;">  <img src="/images/dene.png "/></div>
         </div>
         
            

@@ -41,7 +41,7 @@
                    <img style="width:100%; height: 108px;" src="/images/yesil.png" />
             </div>
                    <div style="width:100%; height:auto; margin-top:-30px;">
-                       <asp:ImageButton src="/images/onayalt.png" Width="100%" ID="ImageButton1" runat="server" />
+                       <asp:ImageButton src="/images/onayalt.png" Width="100%" ID="ImageButton1" runat="server" OnClick="ImageButton1_Click" />
                        
             </div>
                  <a style="text-align:center;"><asp:Label runat="server">TUTAR</asp:Label></a>&nbsp;&nbsp;

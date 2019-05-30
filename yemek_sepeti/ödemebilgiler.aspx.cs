@@ -11,7 +11,12 @@ namespace yemek_sepeti
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            tutar.Text = Request.QueryString["totalprice"];
+        }
 
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("ödeme.aspx");
         }
     }
 }
