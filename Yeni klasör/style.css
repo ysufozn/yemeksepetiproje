@@ -1,0 +1,36 @@
+﻿body {
+}
+
+
+.headerr {
+    height: 70px;
+    background-color: #e9ebec;
+}
+
+.header2 {
+
+    background-color: #ab0012;
+    width:100%;
+    
+
+}
+
+#h {
+    text-align: center;
+  
+}
+
+#select {
+    font-size: 25px;
+    margin: 15px 150px 15px 450px;
+}
+
+#ana {
+    height: 150px;
+}
+
+header {
+    height: 15px;
+}
+
+
