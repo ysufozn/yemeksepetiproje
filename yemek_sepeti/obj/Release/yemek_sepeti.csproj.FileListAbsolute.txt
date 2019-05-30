@@ -1,0 +1,9 @@
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.dll.config
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.dll
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\bin\yemek_sepeti.pdb
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Release\yemek_sepeti.csproj.CoreCompileInputs.cache
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Release\yemek_sepeti.csproj.CopyComplete
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Release\yemek_sepeti.dll
+C:\Users\ysufo\source\repos\yemek_sepeti\yemek_sepeti\obj\Release\yemek_sepeti.pdb

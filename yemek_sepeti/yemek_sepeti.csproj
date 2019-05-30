@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -78,6 +79,66 @@
     <Content Include="Anasayfa.aspx" />
     <Content Include="Anasayfa2.aspx" />
     <Content Include="giriş.aspx" />
+    <Content Include="images\10924.png" />
+    <Content Include="images\alibaba.png" />
+    <Content Include="images\alibabau1.png" />
+    <Content Include="images\alibabau2.png" />
+    <Content Include="images\ana.png" />
+    <Content Include="images\ana2.png" />
+    <Content Include="images\anasayfa.png" />
+    <Content Include="images\artı.png" />
+    <Content Include="images\back.png" />
+    <Content Include="images\basawelik.png" />
+    <Content Include="images\baslik.jpeg" />
+    <Content Include="images\basliwk.png" />
+    <Content Include="images\campüs.png" />
+    <Content Include="images\cancel.png" />
+    <Content Include="images\card.png" />
+    <Content Include="images\clock.png" />
+    <Content Include="images\dene.png" />
+    <Content Include="images\ekran.png" />
+    <Content Include="images\eksi.png" />
+    <Content Include="images\ev.png" />
+    <Content Include="images\face.png" />
+    <Content Include="images\fit.png" />
+    <Content Include="images\footer.png" />
+    <Content Include="images\indir.png" />
+    <Content Include="images\master.png" />
+    <Content Include="images\mc.PNG" />
+    <Content Include="images\mcu1.png" />
+    <Content Include="images\mcu2.png" />
+    <Content Include="images\mg.png" />
+    <Content Include="images\onayalt.png" />
+    <Content Include="images\online.png" />
+    <Content Include="images\ramazan.png" />
+    <Content Include="images\restoran1.PNG" />
+    <Content Include="images\search.png" />
+    <Content Include="images\secilmis.png" />
+    <Content Include="images\sepet.png" />
+    <Content Include="images\sepet1.png" />
+    <Content Include="images\sepetekle.png" />
+    <Content Include="images\silme.png" />
+    <Content Include="images\siparis.png" />
+    <Content Include="images\siparisonay.png" />
+    <Content Include="images\uyegiris.png" />
+    <Content Include="images\uyegirisbuton.png" />
+    <Content Include="images\uyeol.png" />
+    <Content Include="images\uyeoll.png" />
+    <Content Include="images\uyeresim.png" />
+    <Content Include="images\uyesayfa.png" />
+    <Content Include="images\visa.png" />
+    <Content Include="images\vodofone.png" />
+    <Content Include="images\yemeksepeti.png" />
+    <Content Include="images\yeniuye.png" />
+    <Content Include="images\yeniüye.png" />
+    <Content Include="images\yesil.png" />
+    <Content Include="images\üyegiris.png" />
+    <Content Include="images\üyeol.png" />
+    <Content Include="images\üyeoll.png" />
+    <Content Include="images\üyeresim.png" />
+    <Content Include="images\üyesayfa.png" />
+    <Content Include="images\üyeyazi.png" />
+    <Content Include="index.aspx" />
     <Content Include="lokanta1.aspx" />
     <Content Include="lokanta2.aspx" />
     <Content Include="style.css" />
@@ -109,6 +170,13 @@
     </Compile>
     <Compile Include="giriş.aspx.designer.cs">
       <DependentUpon>giriş.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="lokanta1.aspx.cs">
       <DependentUpon>lokanta1.aspx</DependentUpon>
